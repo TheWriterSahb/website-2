@@ -1,6 +1,6 @@
 Website for phpMyAdmin
 ======================
-
+logr - An Amazing superb Project
 Django code for phpMyAdmin's website.
 
 .. image:: https://travis-ci.org/phpmyadmin/website.svg?branch=master
